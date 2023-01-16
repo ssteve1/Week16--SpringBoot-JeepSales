@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.service;
+
+import com.promineotech.jeep.entity.Order;
+import com.promineotech.jeep.entity.OrderRequest;
+
+/**
+ * @author 19294
+ *
+ */
+public interface JeepOrderService {
+	
+	Order createOrder(OrderRequest orderRequest);
+
+}
+ 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/promineotech/Spring-Boot-Course-Student-Resources/tree/fe7043aef5714adf3b11577739fe024497bf9b8e/Entities"/>
+		<item value="https://github.com/promineotech/Spring-Boot-Course-Student-Resources/tree/main/Files/src/test/resources/flyway"/>
+	</list>
+</section>

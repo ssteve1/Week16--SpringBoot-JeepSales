@@ -1,0 +1,8 @@
+package com.promineotech.jeep.dao;
+
+
+public class DefaultJeepOrderDao implements JeepOrderDao {
+
+
+
+}

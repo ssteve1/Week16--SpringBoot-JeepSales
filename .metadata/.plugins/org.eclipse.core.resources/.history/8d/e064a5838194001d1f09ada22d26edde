@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.service;
+
+/**
+ * @author 19294
+ *
+ */
+public interface JeepOrderService {
+
+}
